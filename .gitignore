@@ -1,3 +1,5 @@
 # Folders
 build/
 executable_files/
+venv/
+dist/
