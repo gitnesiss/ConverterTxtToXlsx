@@ -6,7 +6,7 @@ def build_exe():
     
     cmd = [
         sys.executable, "-m", "PyInstaller",
-        "--name=Конвертер_txt_в_Excel",
+        "--name=ConverterTxtToExcel",
         "--onefile",
         "--windowed",  # Ключевой параметр: без консоли
         "--noconsole", # Дополнительное подтверждение
